@@ -15,3 +15,4 @@ DQL statements were employed to retrieve and analyze data from the database, ens
 Additionally, the execution report from reverse engineering provides insights into the database structure and performance metrics, aiding in further optimization if necessary.
 
 
+![Execution Report](https://github.com/AlinaRaluca92/mySQL--proiect/blob/main/Capture.JPG)
