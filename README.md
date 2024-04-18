@@ -31,8 +31,19 @@ The database supports features such as book search, browsing, and recommendation
 
 DDL Statements: 
 
+To ensure usability and functionality of the Bookster database, I initiated the process by structuring the database schema and populating it with relevant data. This involved identifying essential data required for querying and manipulation during the testing phase. 
+
+The following steps were undertaken:
+
+Database Creation
+
+Table Creation
+
 
 ![](https://github.com/AlinaRaluca92/mySQL--proiect/blob/main/DDL.JPG)
+
+
+
 
 
 DML Statements:
