@@ -29,7 +29,7 @@ Other Relevant Information:
 
 The database supports features such as book search, browsing, and recommendation algorithms to help users discover new books based on their interests and preferences.
 
-DDL Statements: 
+#### DDL Statements: 
 
 To ensure usability and functionality of the Bookster database, I initiated the process by structuring the database schema and populating it with relevant data. This involved identifying essential data required for querying and manipulation during the testing phase. 
 
@@ -46,7 +46,13 @@ Table Creation
 
 
 
-DML Statements:
+#### DML Statements
+
+To utilize the database effectively, I populated the tables with diverse data essential for querying and data manipulation. 
+
+Below are the INSERT instructions created for this project:
+
+Insert data into books table, Inserts into Values 
 
 
 ![](https://github.com/AlinaRaluca92/mySQL--proiect/blob/main/DML.JPG)
