@@ -38,6 +38,9 @@ DDL Statements:
 DML Statements:
 
 
+![](https://github.com/AlinaRaluca92/mySQL--proiect/blob/main/DML.JPG)
+
+
 ## Conclusion
 
 In this project, we have successfully designed and implemented a database schema for an online bookstore application.
