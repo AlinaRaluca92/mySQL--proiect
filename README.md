@@ -58,10 +58,20 @@ Insert data into books table, Inserts into Values
 ![](https://github.com/AlinaRaluca92/mySQL--proiect/blob/main/DML.JPG)
 
 
-DQL Statements:
+#### DQL Statements:
 
+
+Data Query Language (DQL) is used to retrieve specific data or information from one or multiple tables in a database. 
+
+It primarily consists of the SELECT statement, which allows users to extract data based on various criteria and conditions. Here are some exemples 
 
 ![](https://github.com/AlinaRaluca92/mySQL--proiect/blob/main/DQL.JPG)
+
+
+To emulate diverse real-world scenarios, I devised a set of queries that address various potential situations that could arise.
+
+
+![](https://github.com/AlinaRaluca92/mySQL--proiect/blob/main/Database.JPG)
 
 
 ## Conclusion
