@@ -29,7 +29,13 @@ Other Relevant Information:
 
 The database supports features such as book search, browsing, and recommendation algorithms to help users discover new books based on their interests and preferences.
 
-DDL Statements:
+DDL Statements: 
+
+
+![](https://github.com/AlinaRaluca92/mySQL--proiect/blob/main/DDL.JPG)
+
+
+DML Statements:
 
 
 ## Conclusion
